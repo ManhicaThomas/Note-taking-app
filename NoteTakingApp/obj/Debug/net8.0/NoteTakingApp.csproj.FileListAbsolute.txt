@@ -1,0 +1,7 @@
+/Users/thomasmanhice/Note-taking-app/NoteTakingApp/obj/Debug/net8.0/NoteTakingApp.csproj.AssemblyReference.cache
+/Users/thomasmanhice/Note-taking-app/NoteTakingApp/obj/Debug/net8.0/NoteTakingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasmanhice/Note-taking-app/NoteTakingApp/obj/Debug/net8.0/NoteTakingApp.AssemblyInfoInputs.cache
+/Users/thomasmanhice/Note-taking-app/NoteTakingApp/obj/Debug/net8.0/NoteTakingApp.AssemblyInfo.cs
+/Users/thomasmanhice/Note-taking-app/NoteTakingApp/obj/Debug/net8.0/NoteTakingApp.csproj.CoreCompileInputs.cache
+/Users/thomasmanhice/Note-taking-app/NoteTakingApp/obj/Debug/net8.0/NoteTakingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/thomasmanhice/Note-taking-app/NoteTakingApp/obj/Debug/net8.0/NoteTakingApp.sourcelink.json
